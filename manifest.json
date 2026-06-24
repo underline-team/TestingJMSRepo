@@ -1,0 +1,7 @@
+{
+  "format_version": 1,
+  "id": "gorillaz",
+  "name": "GorillaZ",
+  "version": "1.0.0",
+  "entry": "jms/epm/index.js"
+}
