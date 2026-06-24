@@ -1,6 +1,6 @@
 {
   "format_version": 1,
-  "name": "GorillaZ",
+  "name": "@underline-team/GorillaZ",
   "version": "1.0.0",
   "entry": "jms/epm/index.js"
 }
